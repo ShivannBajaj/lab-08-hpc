@@ -1,0 +1,319 @@
+JobID           JobName        NodeList  Partition    Account      User      State               Start    Elapsed 
+------------ ---------- --------------- ---------- ---------- --------- ---------- ------------------- ---------- 
+22517456     ood_vscode    udc-aw32-1c0 interacti+     ds2022    peg5tx    TIMEOUT 2026-11-05T14:44:01   02:00:14 
+22517456.ba+      batch    udc-aw32-1c0                ds2022            CANCELLED 2026-11-05T14:44:01   02:00:15 
+22517916          hello   udc-aw32-13c0 interacti+     ds2022    peg5tx  COMPLETED 2026-11-05T14:57:46   00:00:04 
+22517916.ba+      batch   udc-aw32-13c0                ds2022            COMPLETED 2026-11-05T14:57:46   00:00:04 
+22518195          hello   None assigned interacti+     ds2022    peg5tx CANCELLED+                None   00:00:00 
+22518423      pi-serial   udc-aw32-22c0 standard-+     ds2022    peg5tx  COMPLETED 2026-11-05T15:08:36   00:00:38 
+22518423.ba+      batch   udc-aw32-22c0                ds2022            COMPLETED 2026-11-05T15:08:36   00:00:38 
+22518425          pi-mp    udc-aw33-4c0 standard-+     ds2022    peg5tx  COMPLETED 2026-11-05T15:08:36   00:00:09 
+22518425.ba+      batch    udc-aw33-4c0                ds2022            COMPLETED 2026-11-05T15:08:36   00:00:09 
+22518511     pytorch-m+      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-05T15:10:44   00:00:46 
+22518511.ba+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-05T15:10:44   00:00:46 
+23096712_1    summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T04:49:24   00:00:14 
+23096712_1.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T04:49:24   00:00:14 
+23096712_1.+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T04:49:24   00:00:14 
+23116562_1    summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:21:24   00:00:16 
+23116562_1.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:21:24   00:00:16 
+23116562_1.+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:21:24   00:00:16 
+23116562_2    summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:21:24   00:00:17 
+23116562_2.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:21:24   00:00:17 
+23116562_2.+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:21:24   00:00:17 
+23116562_3    summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:21:24   00:00:17 
+23116562_3.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:21:24   00:00:17 
+23116562_3.+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:21:24   00:00:17 
+23116562_4    summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:21:24   00:00:17 
+23116562_4.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:21:24   00:00:17 
+23116562_4.+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:21:24   00:00:17 
+23116562_5    summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:21:24   00:00:16 
+23116562_5.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:21:24   00:00:16 
+23116562_5.+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:21:24   00:00:16 
+23116562_6    summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:21:24   00:00:17 
+23116562_6.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:21:24   00:00:17 
+23116562_6.+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:21:24   00:00:17 
+23116562_7    summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:22:17   00:00:16 
+23116562_7.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:22:17   00:00:16 
+23116562_7.+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:22:17   00:00:16 
+23116562_8    summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:22:17   00:00:15 
+23116562_8.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:22:17   00:00:15 
+23116562_8.+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:22:17   00:00:15 
+23116562_9    summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:22:17   00:00:15 
+23116562_9.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:22:17   00:00:15 
+23116562_9.+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:22:17   00:00:15 
+23116562_10   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:22:17   00:00:16 
+23116562_10+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:22:17   00:00:16 
+23116562_10+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:22:17   00:00:16 
+23116562_11   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:22:17   00:00:15 
+23116562_11+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:22:17   00:00:15 
+23116562_11+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:22:17   00:00:15 
+23116562_12   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:22:17   00:00:16 
+23116562_12+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:22:17   00:00:16 
+23116562_12+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:22:17   00:00:16 
+23116562_13   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:22:51   00:00:18 
+23116562_13+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:22:51   00:00:18 
+23116562_13+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:22:51   00:00:18 
+23116562_14   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:22:51   00:00:15 
+23116562_14+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:22:51   00:00:15 
+23116562_14+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:22:51   00:00:15 
+23116562_15   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:22:51   00:00:16 
+23116562_15+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:22:51   00:00:16 
+23116562_15+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:22:51   00:00:16 
+23116562_16   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:22:51   00:00:16 
+23116562_16+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:22:51   00:00:16 
+23116562_16+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:22:51   00:00:16 
+23116562_17   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:22:51   00:00:15 
+23116562_17+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:22:51   00:00:15 
+23116562_17+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:22:51   00:00:15 
+23116562_18   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:22:51   00:00:16 
+23116562_18+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:22:51   00:00:16 
+23116562_18+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:22:51   00:00:16 
+23116562_19   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:23:19   00:00:15 
+23116562_19+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:23:19   00:00:15 
+23116562_19+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:23:19   00:00:15 
+23116562_20   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:23:19   00:00:15 
+23116562_20+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:23:19   00:00:15 
+23116562_20+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:23:19   00:00:15 
+23116562_21   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:23:19   00:00:15 
+23116562_21+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:23:19   00:00:15 
+23116562_21+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:23:19   00:00:15 
+23116562_22   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:23:19   00:00:15 
+23116562_22+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:23:19   00:00:15 
+23116562_22+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:23:19   00:00:15 
+23116562_23   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:23:19   00:00:15 
+23116562_23+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:23:19   00:00:15 
+23116562_23+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:23:19   00:00:15 
+23116562_24   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:23:19   00:00:15 
+23116562_24+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:23:19   00:00:15 
+23116562_24+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:23:19   00:00:15 
+23116562_25   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:24:10   00:00:15 
+23116562_25+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:24:10   00:00:15 
+23116562_25+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:24:10   00:00:15 
+23116562_26   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:24:10   00:00:15 
+23116562_26+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:24:10   00:00:15 
+23116562_26+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:24:10   00:00:15 
+23116562_27   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:24:10   00:00:15 
+23116562_27+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:24:10   00:00:15 
+23116562_27+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:24:10   00:00:15 
+23116562_28   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:24:10   00:00:16 
+23116562_28+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:24:10   00:00:16 
+23116562_28+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:24:10   00:00:16 
+23116562_29   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:24:10   00:00:16 
+23116562_29+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:24:10   00:00:16 
+23116562_29+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:24:10   00:00:16 
+23116562_30   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:24:10   00:00:16 
+23116562_30+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:24:10   00:00:16 
+23116562_30+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:24:10   00:00:16 
+23116562_31   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:24:51   00:00:16 
+23116562_31+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:24:51   00:00:16 
+23116562_31+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:24:51   00:00:16 
+23116562_32   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:24:51   00:00:17 
+23116562_32+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:24:51   00:00:17 
+23116562_32+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:24:51   00:00:17 
+23116562_33   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:24:51   00:00:16 
+23116562_33+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:24:51   00:00:16 
+23116562_33+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:24:51   00:00:16 
+23116562_34   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:24:51   00:00:17 
+23116562_34+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:24:51   00:00:17 
+23116562_34+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:24:51   00:00:17 
+23116562_35   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:24:51   00:00:16 
+23116562_35+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:24:51   00:00:16 
+23116562_35+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:24:51   00:00:16 
+23116562_36   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:24:51   00:00:17 
+23116562_36+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:24:51   00:00:17 
+23116562_36+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:24:51   00:00:17 
+23116562_37   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:25:50   00:00:15 
+23116562_37+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:25:50   00:00:15 
+23116562_37+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:25:50   00:00:15 
+23116562_38   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:25:50   00:00:15 
+23116562_38+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:25:50   00:00:15 
+23116562_38+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:25:50   00:00:15 
+23116562_39   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:25:50   00:00:15 
+23116562_39+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:25:50   00:00:15 
+23116562_39+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:25:50   00:00:15 
+23116562_40   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:25:50   00:00:15 
+23116562_40+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:25:50   00:00:15 
+23116562_40+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:25:50   00:00:15 
+23116562_41   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:25:50   00:00:15 
+23116562_41+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:25:50   00:00:15 
+23116562_41+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:25:50   00:00:15 
+23116562_42   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:25:50   00:00:15 
+23116562_42+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:25:50   00:00:15 
+23116562_42+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:25:50   00:00:15 
+23116562_43   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:26:29   00:00:15 
+23116562_43+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:26:29   00:00:15 
+23116562_43+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:26:29   00:00:15 
+23116562_44   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:26:29   00:00:15 
+23116562_44+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:26:29   00:00:15 
+23116562_44+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:26:29   00:00:15 
+23116562_45   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:26:29   00:00:15 
+23116562_45+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:26:29   00:00:15 
+23116562_45+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:26:29   00:00:15 
+23116562_46   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:26:29   00:00:16 
+23116562_46+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:26:29   00:00:16 
+23116562_46+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:26:29   00:00:16 
+23116562_47   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:26:29   00:00:15 
+23116562_47+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:26:29   00:00:15 
+23116562_47+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:26:29   00:00:15 
+23116562_48   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:26:29   00:00:15 
+23116562_48+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:26:29   00:00:15 
+23116562_48+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:26:29   00:00:15 
+23116562_49   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:27:39   00:00:14 
+23116562_49+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:27:39   00:00:14 
+23116562_49+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:27:39   00:00:14 
+23116562_50   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:27:39   00:00:15 
+23116562_50+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:27:39   00:00:15 
+23116562_50+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:27:39   00:00:15 
+23116562_51   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:27:39   00:00:14 
+23116562_51+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:27:39   00:00:14 
+23116562_51+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:27:39   00:00:14 
+23116562_52   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:27:39   00:00:15 
+23116562_52+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:27:39   00:00:15 
+23116562_52+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:27:39   00:00:15 
+23116562_53   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:27:39   00:00:14 
+23116562_53+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:27:39   00:00:14 
+23116562_53+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:27:39   00:00:14 
+23116562_54   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:27:39   00:00:15 
+23116562_54+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:27:39   00:00:15 
+23116562_54+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:27:39   00:00:15 
+23116562_55   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:28:13   00:00:12 
+23116562_55+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:28:13   00:00:12 
+23116562_55+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:28:13   00:00:12 
+23116562_56   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:28:13   00:00:14 
+23116562_56+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:28:13   00:00:14 
+23116562_56+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:28:13   00:00:14 
+23116562_57   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:28:13   00:00:13 
+23116562_57+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:28:13   00:00:13 
+23116562_57+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:28:13   00:00:13 
+23116562_58   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:28:13   00:00:13 
+23116562_58+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:28:13   00:00:13 
+23116562_58+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:28:13   00:00:13 
+23116562_59   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:28:13   00:00:14 
+23116562_59+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:28:13   00:00:14 
+23116562_59+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:28:13   00:00:14 
+23116562_60   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:28:13   00:00:13 
+23116562_60+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:28:13   00:00:13 
+23116562_60+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:28:13   00:00:13 
+23116562_61   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:28:48   00:00:13 
+23116562_61+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:28:48   00:00:13 
+23116562_61+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:28:48   00:00:13 
+23116562_62   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:28:48   00:00:14 
+23116562_62+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:28:48   00:00:14 
+23116562_62+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:28:48   00:00:14 
+23116562_63   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:28:48   00:00:14 
+23116562_63+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:28:48   00:00:14 
+23116562_63+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:28:48   00:00:14 
+23116562_64   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:28:48   00:00:14 
+23116562_64+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:28:48   00:00:14 
+23116562_64+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:28:48   00:00:14 
+23116562_65   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:28:48   00:00:14 
+23116562_65+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:28:48   00:00:14 
+23116562_65+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:28:48   00:00:14 
+23116562_66   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:28:48   00:00:14 
+23116562_66+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:28:48   00:00:14 
+23116562_66+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:28:48   00:00:14 
+23116562_67   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:29:37   00:00:14 
+23116562_67+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:29:37   00:00:14 
+23116562_67+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:29:37   00:00:14 
+23116562_68   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:29:37   00:00:14 
+23116562_68+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:29:37   00:00:14 
+23116562_68+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:29:37   00:00:14 
+23116562_69   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:29:37   00:00:15 
+23116562_69+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:29:37   00:00:15 
+23116562_69+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:29:37   00:00:15 
+23116562_70   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:29:37   00:00:15 
+23116562_70+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:29:37   00:00:15 
+23116562_70+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:29:37   00:00:15 
+23116562_71   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:29:37   00:00:15 
+23116562_71+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:29:37   00:00:15 
+23116562_71+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:29:37   00:00:15 
+23116562_72   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:29:37   00:00:15 
+23116562_72+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:29:37   00:00:15 
+23116562_72+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:29:37   00:00:15 
+23116562_73   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:30:13   00:00:14 
+23116562_73+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:30:13   00:00:14 
+23116562_73+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:30:13   00:00:14 
+23116562_74   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:30:13   00:00:13 
+23116562_74+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:30:13   00:00:13 
+23116562_74+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:30:13   00:00:13 
+23116562_75   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:30:13   00:00:13 
+23116562_75+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:30:13   00:00:13 
+23116562_75+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:30:13   00:00:13 
+23116562_76   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:30:13   00:00:14 
+23116562_76+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:30:13   00:00:14 
+23116562_76+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:30:13   00:00:14 
+23116562_77   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:30:13   00:00:14 
+23116562_77+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:30:13   00:00:14 
+23116562_77+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:30:13   00:00:14 
+23116562_78   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:30:13   00:00:14 
+23116562_78+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:30:13   00:00:14 
+23116562_78+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:30:13   00:00:14 
+23116562_79   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:31:15   00:00:15 
+23116562_79+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:31:15   00:00:15 
+23116562_79+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:31:15   00:00:15 
+23116562_80   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:31:15   00:00:15 
+23116562_80+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:31:15   00:00:15 
+23116562_80+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:31:15   00:00:15 
+23116562_81   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:31:15   00:00:15 
+23116562_81+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:31:15   00:00:15 
+23116562_81+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:31:15   00:00:15 
+23116562_82   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:31:15   00:00:15 
+23116562_82+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:31:15   00:00:15 
+23116562_82+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:31:15   00:00:15 
+23116562_83   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:31:15   00:00:15 
+23116562_83+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:31:15   00:00:15 
+23116562_83+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:31:15   00:00:15 
+23116562_84   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:31:15   00:00:15 
+23116562_84+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:31:15   00:00:15 
+23116562_84+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:31:15   00:00:15 
+23116562_85   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:31:53   00:00:14 
+23116562_85+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:31:53   00:00:14 
+23116562_85+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:31:53   00:00:14 
+23116562_86   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:31:53   00:00:14 
+23116562_86+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:31:53   00:00:14 
+23116562_86+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:31:53   00:00:14 
+23116562_87   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:31:53   00:00:14 
+23116562_87+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:31:53   00:00:14 
+23116562_87+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:31:53   00:00:14 
+23116562_88   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:31:53   00:00:14 
+23116562_88+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:31:53   00:00:14 
+23116562_88+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:31:53   00:00:14 
+23116562_89   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:31:53   00:00:14 
+23116562_89+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:31:53   00:00:14 
+23116562_89+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:31:53   00:00:14 
+23116562_90   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:31:53   00:00:15 
+23116562_90+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:31:53   00:00:15 
+23116562_90+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:31:53   00:00:15 
+23116562_91   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:32:33   00:00:15 
+23116562_91+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:32:33   00:00:15 
+23116562_91+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:32:33   00:00:15 
+23116562_92   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:32:33   00:00:15 
+23116562_92+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:32:33   00:00:15 
+23116562_92+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:32:33   00:00:15 
+23116562_93   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:32:33   00:00:15 
+23116562_93+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:32:33   00:00:15 
+23116562_93+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:32:33   00:00:15 
+23116562_94   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:32:33   00:00:16 
+23116562_94+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:32:33   00:00:16 
+23116562_94+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:32:33   00:00:16 
+23116562_95   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:32:33   00:00:15 
+23116562_95+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:32:33   00:00:15 
+23116562_95+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:32:33   00:00:15 
+23116562_96   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:32:33   00:00:16 
+23116562_96+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:32:33   00:00:16 
+23116562_96+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:32:33   00:00:16 
+23116562_97   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:33:16   00:00:14 
+23116562_97+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:33:16   00:00:14 
+23116562_97+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:33:16   00:00:14 
+23116562_98   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:33:16   00:00:15 
+23116562_98+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:33:16   00:00:15 
+23116562_98+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:33:16   00:00:15 
+23116562_99   summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:33:16   00:00:15 
+23116562_99+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:33:16   00:00:15 
+23116562_99+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:33:16   00:00:15 
+23116562_100  summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:33:16   00:00:14 
+23116562_10+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:33:16   00:00:14 
+23116562_10+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:33:16   00:00:14 
+23116562_101  summarize      udc-aw37-1    gpu-mig     ds2022    peg5tx  COMPLETED 2026-11-18T13:33:16   00:00:15 
+23116562_10+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:33:16   00:00:15 
+23116562_10+     extern      udc-aw37-1                ds2022            COMPLETED 2026-11-18T13:33:16   00:00:15 
